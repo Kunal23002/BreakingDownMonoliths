@@ -146,4 +146,7 @@ If everything is successful, the program can be accessed by heading over to [loc
 - The landing folder's app.py sends GET requests to other services based on the operation performed.
 
 # <p align = "center"> Credits </p>
-
+Harsha Pai
+Kunal E
+Kuval Garg
+Mayank Agrawal
